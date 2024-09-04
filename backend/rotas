@@ -1,0 +1,19 @@
+backend/
+├── controllers/
+│   ├── gymController.js
+│   ├── userController.js
+│   └── workoutPlanController.js
+├── models/
+│   ├── gymModel.js
+│   ├── userModel.js
+│   └── workoutPlanModel.js
+├── routes/
+│   ├── gymRoutes.js
+│   ├── userRoutes.js
+│   └── workoutPlanRoutes.js
+├── config/
+│   └── db.js
+├── middleware/
+│   └── authMiddleware.js
+├── index.js
+└── .env
